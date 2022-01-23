@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LMGTFY</string>
+    <string name="enter_search_text">Google something</string>
+    <string name="search_button_text">Let me google that for you!</string>
+    <string name="search_display_text">Searching for %1$s</string>
+    <string name="no_text_error_message">Enter some text to search for</string>
+    <string name="searching_confirm_message">Searching for %1$s</string>
+    <string name="google_search_text">https://www.google.com/search?q=%1$s</string>
+</resources>
